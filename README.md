@@ -13,12 +13,12 @@ The app will also need to broadcast an SSID to let know others that something is
 
 The app would then send a Facebook/Twitter notification with GPS coordinate and then turn on video mode.
 
-The appp for the user being targetted need to be 2 clicks:
--1 Type as quickly as possible the storyline of the target
--2 Start recording and posting as well .....
+The appp for the user being targetted need to be 2 clicks:   
+-1 Type as quickly as possible the storyline of the target  
+-2 Start recording and posting as well .....   
 
-For the people arround:
--1 Receive the beacon, propose various scenarios
--2 Invite the user to participate (click to say : "I am with you.")
--3 Offer the choice to retweet and repost on facebook
--4 Start recording and posting as well (if possible) .....
+For the people arround:   
+-1 Receive the beacon, propose various scenarios   
+-2 Invite the user to participate (click to say : "I am with you.")    
+-3 Offer the choice to retweet and repost on facebook   
+-4 Start recording and posting as well (if possible) .....    

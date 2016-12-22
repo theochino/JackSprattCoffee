@@ -7,7 +7,7 @@ The name is based on the 1942 Jack Spatt Coffee Shop Siting: http://interactive.
 
 The goal of the app is to launch a silent beacon to those around the person being targetted so other people can react with the correct information.
 
-The goal is to create order around a volatile situation by organizing a counter protest and shame the bully.     
+The goal is to create order around a volatile situation by organizing a peacefull counter protest and shame the bully.     
 
 The app will open a screen were the person being targeted can quickly write his story and upload it to a server.   
 The next step would be to turn on Bleutooth and broadcast a iBeacon so people can judge the distance to the person being targetted.    

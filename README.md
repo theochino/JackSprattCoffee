@@ -3,7 +3,7 @@ Series of Apps to help targeted people
 
 After reading this Article, http://www.nytimes.com/2016/12/21/world/delta-air-lines-adam-saleh.html about being kicked out of a plane for speaking arabic, I decided to write a social app so targetted people can work together when.
 
-The name is based on the 1934 Jack Spatt Coffee Shop Siting: http://interactive.wttw.com/timemachine/jack-spratt-coffee-shop-sit
+The name is based on the 1942 Jack Spatt Coffee Shop Siting: http://interactive.wttw.com/timemachine/jack-spratt-coffee-shop-sit
 
 The goal of the app is too launch a silent beacon to those around the person being targetted so other people can react.
 

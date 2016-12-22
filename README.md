@@ -1,5 +1,5 @@
 # JackSprattCoffee
-Series of Apps to help targetted people
+Series of Apps to help targeted people
 
 After reading this Article, http://www.nytimes.com/2016/12/21/world/delta-air-lines-adam-saleh.html about being kicked out of a plane for speaking arabic, I decided to write a social app so targetted people can work together when.
 

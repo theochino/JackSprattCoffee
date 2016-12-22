@@ -7,11 +7,11 @@ The name is based on the 1934 Jack Spatt Coffee Shop Siting: http://interactive.
 
 The goal of the app is too launch a silent beacon to those around the person being targetted so other people can react.
 
-The app will open a screen were the person being targetted can quickly write his story and upload it to a server.
-The next step would be to turn on Bleutooth and broadcast a iBeacon so people can judge the distance to the person being targetted.
-The app will also need to broadcast an SSID to let know others that something is happening. Those with the app would then receive an alter prompting them to turn iBeacon.
+The app will open a screen were the person being targetted can quickly write his story and upload it to a server.   
+The next step would be to turn on Bleutooth and broadcast a iBeacon so people can judge the distance to the person being targetted.    
+The app will also need to broadcast an SSID to let know others that something is happening. Those with the app would then receive an alter prompting them to turn iBeacon.     
 
-The app would then send a Facebook/Twitter notification with GPS coordinate and then turn on video mode.
+The app would then send a Facebook/Twitter notification with GPS coordinate and then turn on video mode.   
 
 The appp for the user being targetted need to be 2 clicks:   
 -1 Type as quickly as possible the storyline of the target  

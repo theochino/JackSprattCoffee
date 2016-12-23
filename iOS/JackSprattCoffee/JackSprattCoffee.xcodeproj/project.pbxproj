@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		354717541E0DCACC009027FD /* VC_ProvideHelp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354717531E0DCACC009027FD /* VC_ProvideHelp.swift */; };
 		E49DB75C1E0BCA54005542C3 /* VC_NeedHelp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E49DB75B1E0BCA54005542C3 /* VC_NeedHelp.swift */; };
 		E4D37E5B1E0BBA7400C46FD1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D37E5A1E0BBA7400C46FD1 /* AppDelegate.swift */; };
 		E4D37E5D1E0BBA7400C46FD1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D37E5C1E0BBA7400C46FD1 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		354717531E0DCACC009027FD /* VC_ProvideHelp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VC_ProvideHelp.swift; sourceTree = "<group>"; };
 		E49DB75B1E0BCA54005542C3 /* VC_NeedHelp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VC_NeedHelp.swift; sourceTree = "<group>"; };
 		E4D37E571E0BBA7400C46FD1 /* JackSprattCoffee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JackSprattCoffee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4D37E5A1E0BBA7400C46FD1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				E4D37E5A1E0BBA7400C46FD1 /* AppDelegate.swift */,
 				E4D37E5C1E0BBA7400C46FD1 /* ViewController.swift */,
 				E49DB75B1E0BCA54005542C3 /* VC_NeedHelp.swift */,
+				354717531E0DCACC009027FD /* VC_ProvideHelp.swift */,
 				E4D37E5E1E0BBA7400C46FD1 /* Main.storyboard */,
 				E4D37E611E0BBA7400C46FD1 /* Assets.xcassets */,
 				E4D37E631E0BBA7400C46FD1 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4D37E5D1E0BBA7400C46FD1 /* ViewController.swift in Sources */,
+				354717541E0DCACC009027FD /* VC_ProvideHelp.swift in Sources */,
 				E4D37E5B1E0BBA7400C46FD1 /* AppDelegate.swift in Sources */,
 				E49DB75C1E0BCA54005542C3 /* VC_NeedHelp.swift in Sources */,
 			);
@@ -417,11 +421,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 4B65YW2GPX;
 				INFOPLIST_FILE = JackSprattCoffee/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = us.theochino.JackSprattCoffee;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JackSprattCoffe.ios.JackSprattCoffee;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -430,11 +437,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 4B65YW2GPX;
 				INFOPLIST_FILE = JackSprattCoffee/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = us.theochino.JackSprattCoffee;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JackSprattCoffe.ios.JackSprattCoffee;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
